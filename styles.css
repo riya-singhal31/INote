@@ -1,0 +1,20 @@
+body{
+  background-color: #bb8082;
+}
+#heading{
+  text-align: center;
+  padding: 5px;
+
+}
+#clearBtn{
+
+  background-color: #865858;
+}
+
+.removeBtn{
+    text-align: right;
+}
+
+.card{
+  background-color: #f5c0c0;
+}
